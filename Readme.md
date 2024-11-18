@@ -8,4 +8,6 @@ Error Highlighting: Identifies and highlights potential bugs or errors.
 Customizable Rules: Allows users to set specific rules for code review.
 User-Friendly Interface: Easy-to-use input system for uploading and reviewing code.
 Support for Multiple Languages: Currently supports. 
+
+i used this in google collab 
 :D
